@@ -1,0 +1,6 @@
+# Auto Configuration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+net.jiaoqsh.grpcx.discovery.ZookeeperDiscoveryAutoConfiguration,\
+net.jiaoqsh.grpcx.server.GRpcServerAutoConfiguration
+
+
